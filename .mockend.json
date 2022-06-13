@@ -1,6 +1,7 @@
 {
   "User": {
     "period": { "string": {} },
+    "test": { "string": {} },
     "findings": { "int": { "min": 0, "max": 100 } },
     "activities": { "int": { "min": 0, "max": 100 } }
   }
