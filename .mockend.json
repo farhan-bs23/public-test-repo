@@ -1,5 +1,38 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "User": [
+    [
+      { "id": 0, "period": "May, 13", "activities": 11, "findings": 11 },
+      { "id": 1, "period": "May, 14", "activities": 0, "findings": 0 },
+      { "id": 2, "period": "May, 15", "activities": 0, "findings": 0 },
+      { "id": 3, "period": "May, 16", "activities": 1, "findings": 1 },
+      { "id": 4, "period": "May, 17", "activities": 13, "findings": 14 },
+      { "id": 5, "period": "May, 18", "activities": 0, "findings": 0 },
+      { "id": 6, "period": "May, 19", "activities": 1, "findings": 0 },
+      { "id": 7, "period": "May, 20", "activities": 3, "findings": 3 },
+      { "id": 8, "period": "May, 21", "activities": 3, "findings": 3 },
+      { "id": 9, "period": "May, 22", "activities": 0, "findings": 0 },
+      { "id": 10, "period": "May, 23", "activities": 0, "findings": 0 },
+      { "id": 11, "period": "May, 24", "activities": 0, "findings": 0 },
+      { "id": 12, "period": "May, 25", "activities": 12, "findings": 12 },
+      { "id": 13, "period": "May, 26", "activities": 0, "findings": 0 },
+      { "id": 14, "period": "May, 27", "activities": 0, "findings": 0 },
+      { "id": 15, "period": "May, 28", "activities": 0, "findings": 0 },
+      { "id": 16, "period": "May, 29", "activities": 0, "findings": 0 },
+      { "id": 17, "period": "May, 30", "activities": 0, "findings": 0 },
+      { "id": 18, "period": "May, 31", "activities": 6, "findings": 6 },
+      { "id": 19, "period": "Jun, 01", "activities": 0, "findings": 0 },
+      { "id": 20, "period": "Jun, 02", "activities": 3, "findings": 1 },
+      { "id": 21, "period": "Jun, 03", "activities": 9, "findings": 9 },
+      { "id": 22, "period": "Jun, 04", "activities": 0, "findings": 0 },
+      { "id": 23, "period": "Jun, 05", "activities": 0, "findings": 0 },
+      { "id": 24, "period": "Jun, 06", "activities": 0, "findings": 0 },
+      { "id": 25, "period": "Jun, 07", "activities": 4, "findings": 0 },
+      { "id": 26, "period": "Jun, 08", "activities": 0, "findings": 0 },
+      { "id": 27, "period": "Jun, 09", "activities": 0, "findings": 0 },
+      { "id": 28, "period": "Jun, 10", "activities": 1, "findings": 0 },
+      { "id": 29, "period": "Jun, 11", "activities": 0, "findings": 0 },
+      { "id": 30, "period": "Jun, 12", "activities": 0, "findings": 0 },
+      { "id": 31, "period": "Jun, 13", "activities": 0, "findings": 0 }
+    ]
+  ]
 }
