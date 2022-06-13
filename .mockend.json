@@ -1,8 +1,12 @@
 {
   "User": {
     "period": { "string": {} },
-    "test": { "string": {} },
     "findings": { "int": { "min": 0, "max": 100 } },
     "activities": { "int": { "min": 0, "max": 100 } }
+  },
+  "Map": {
+    "latitude": { "int": { "min": -90, "max": 90 } },
+    "longitude": { "int": { "min": -180, "max": 180 } },
+    "idCountry": { "string": {} }
   }
 }
