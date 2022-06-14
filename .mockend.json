@@ -17,13 +17,7 @@
         "max": "2020-12-31T23:59:59Z"
       }
     },
-    "finding_average_of_relevance_by_group": [
-      {
-        "group": { "string": {} },
-        "user_group": { "string": {} },
-        "value": { "string": {} }
-      }
-    ],
+    "finding_average_of_relevance_by_group": { "hasMany": "User" },
     "metadata": [],
     "source_types": [],
     "title": { "string": {} }
