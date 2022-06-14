@@ -9,5 +9,14 @@
     "latitude": { "int": { "min": -90, "max": 90 } },
     "longitude": { "int": { "min": -180, "max": 180 } },
     "idCountry": { "string": {} }
+  },
+  "finding": {
+    "created_at": {
+      "dateTime": {
+        "min": "2010-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"
+      }
+    },
+    "finding_average_of_relevance_by_group": { "string": {} }
   }
 }
