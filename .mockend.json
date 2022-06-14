@@ -10,7 +10,7 @@
     "longitude": { "int": { "min": -180, "max": 180 } },
     "idCountry": { "string": {} }
   },
-  "finding": {
+  "Finding": {
     "created_at": {
       "dateTime": {
         "min": "2010-01-01T00:00:00Z",
