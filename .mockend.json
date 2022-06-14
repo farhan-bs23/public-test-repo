@@ -1,6 +1,11 @@
 {
   "User": {
-    "period": { "string": {} },
+    "period": {
+      "dateTime": {
+        "min": "2022-01-01T00:00:00Z",
+        "max": "2022-06-14T23:59:59Z"
+      }
+    },
     "findings": { "int": { "min": 0, "max": 100 } },
     "activities": { "int": { "min": 0, "max": 100 } }
   },
@@ -18,8 +23,8 @@
       }
     },
     "finding_average_of_relevance_by_group": { "hasMany": "User" },
-    "metadata":  { "string": {} },
-    "source_types":  { "string": {} },
+    "metadata": { "string": {} },
+    "source_types": { "string": {} },
     "title": { "string": {} }
   }
 }
