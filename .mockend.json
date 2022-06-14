@@ -18,8 +18,8 @@
       }
     },
     "finding_average_of_relevance_by_group": { "hasMany": "User" },
-    "metadata": [],
-    "source_types": [],
+    "metadata":  { "string": {} },
+    "source_types":  { "string": {} },
     "title": { "string": {} }
   }
 }
