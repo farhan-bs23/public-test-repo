@@ -13,7 +13,14 @@
     "value": { "int": { "min": 0, "max": 50 } },
     "latitude": { "int": { "min": -90, "max": 90 } },
     "longitude": { "int": { "min": -180, "max": 180 } },
-    "idCountry": { "string": {} }
+    "idCountry": { "string": {} },
+    "location": {
+      "string": [
+        "{ \"type\": \"Point\", \"coordinates\": [ 126.97719095368069, 37.58895723763537 ] }",
+        "{ \"type\": \"Point\", \"coordinates\": [ -1.582031249779768, 52.673051353982871 ] }",
+        "{ \"type\": \"Point\", \"coordinates\": [ -118.168945296054602, 34.275375293442401 ] }"
+      ]
+    }
   },
   "Finding": {
     "created_at": {
